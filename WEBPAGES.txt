@@ -1,0 +1,77 @@
+
+ “I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.
+
+Link to different sources of code and inspiration
+1. https://github.com/rahulpatraiitkgp/Identifying-Fraud-from-the-Enron-Dataset
+2. https://intro-to-machine-learning.readthedocs.io/Final%20Project/Part%202%20-%20Data%20Pre%20Processing/
+3. https://hadrien-lcrx.github.io/notebooks/Enron_POI_Identification.html
+4. http://www.faqs.org/faqs/ai-faq/neural-nets/part2/section-16.html
+5. https://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html#sphx-glr-auto-examples-preprocessing-plot-scaling-importance-py
+6. https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
+7. https://realpython.com/numpy-scipy-pandas-correlation-python/#spearman-correlation-coefficient
+8. https://scikit-learn.org/stable/modules/generated/sklearn.cluster.k_means.html?highlight=k%20means#sklearn.cluster.k_means
+9. https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
+10. http://www.yannispappas.com/Fraud-Detection-Using-Machine-Learning/
+11. https://github.com/missmariss31/enron
+12. https://praxitelisk.github.io/DAND-P5-Identify-Fraud-From-Enron-Email/Enron_Fraud_Detection_Project_Final_Report.html
+13. https://github.com/olegleyz
+14. https://www.pythonforengineers.com/analysing-the-enron-email-corpus/
+15. https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02
+16. https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+17. AdaBoost algorithm with random forest for prediction breast cancer survivability. Jaree Thoungkn, Guandong Xu, Yanchung Zhang
+18. https://www.quora.com/Why-do-we-choose-random-state-as-42-very-often-during-training-a-machine-learning-model
+19. Isn't that obvious? 42 is the Answer to the Ultimate Question of Life, the Universe, and Everything.
+
+Enron references
+1. https://www.latimes.com/archives/la-xpm-2002-feb-13-fi--board13-story.html
+2. https://en.wikipedia.org/wiki/Robert_A._Belfer
+3. https://en.wikipedia.org/wiki/Ronnie_Chan
+4. https://philanthropyforum.org/people/sanjay-bhatnagar/
+5. https://corpwatch.org/article/india-clintons-corporate-entourage
+6. https://www.dunwalke.com/resources/documents/ArticleScans/Sized/Harvard_Watch-Trading_Truths.pdf
+7. https://www.infinite-energy.com/iemagazine/issue41/enron.html
+8. https://en.wikipedia.org/wiki/Timothy_Belden
+9. https://en.wikipedia.org/wiki/Vincent_Kaminski
+10. https://business.rice.edu/person/vincent-kaminski
+11. https://www.technologyreview.com/2013/07/02/177506/the-immortal-life-of-the-enron-e-mails/
+12. https://www.researchgate.net/publication/327252947_Security_Threats_for_Big_Data_An_Empirical_Study
+13. https://moneyinc.com/kinder-morgan-ceo-steve-kean/
+14. https://www.researchgate.net/figure/A-fraction-of-the-email-corpus-of-Richard-Shapiro-an-Enron-employee-represented-as-a_fig1_220515841
+15. https://rodgersnotes.wordpress.com/2013/11/24/analyzing-keywords-in-enrons-email/
+16. https://www.risk.net/risk-management/2123422/ten-years-after-its-collapse-enron-lives-energy-markets
+17. https://www.twst.com/bio/mark-a-frevert/    
+18. https://corpwatch.org/article/enrons-pipe-scheme
+19. https://books.google.fr/books?id=_Tgmi4IvCjgC&pg=PA190&lpg=PA190&dq=CLINE+KENNETH+W+enron&source=bl&ots=dFszbYAwKH&sig=ACfU3U1X2Qhrtex4VnBEK3_knzUGVlk3Sw&hl=es&sa=X&ved=2ahUKEwjCm-2O5L3sAhUpzoUKHW8nCd4Q6AEwB3oECB8QAg#v=onepage&q=CLINE%20KENNETH%20W%20enron&f=false
+20. https://www.verdexchange.org/profile/john-woody-wodraska
+21. https://corporate.findlaw.com/contracts/compensation/consulting-services-agreement-enron-corp-and-john-a-urquhart9.html
+22. https://www.theglobeandmail.com/report-on-business/us-senate-blasts-enron-directors/article25694090/
+23. https://www.latimes.com/archives/la-xpm-2002-feb-13-fi--board13-story.html
+24. https://opencorporates.com/officers/207877137
+25. https://www.independent.co.uk/news/business/news/now-enron-chief-executives-wife-demands-severance-pay-173760.html
+26. https://en.wikipedia.org/wiki/Jeffrey_Skilling
+27. https://www.chron.com/business/enron/article/Judge-decries-Enron-exec-s-deeper-guilt-1889810.php
+28. http://www.cis.jhu.edu/~parky/Enron/employees
+29. http://www.cis.jhu.edu/~parky/Enron/
+30. http://www.cs.cmu.edu/~enron/
+31. https://research.cs.queensu.ca/home/skill/otherforms.html
+32. https://www.deseret.com/2006/2/28/19940607/ex-enron-accountant-plundered
+33. https://www.researchgate.net/figure/Andrew-Fastows-Enron-email-network_fig3_220295304
+34. https://en.wikipedia.org/wiki/Kenneth_Lay
+35. https://www.theguardian.com/business/2002/jan/13/corporatefraud.enron
+36. https://www.travelweekly.com/Travel-News/Travel-Agent-Issues/Texas-agency-takes-a-huge-hit-from-Enron-s-fall
+37. https://www.businesstravelnews.com/More-News/Enron-s-Agency-Changes-Name-Reaffirms-Corp-Commitment
+38. http://content.time.com/time/magazine/article/0,9171,198885,00.html 
+39. https://www.researchgate.net/figure/A-fraction-of-the-email-corpus-of-Richard-Shapiro-an-Enron-employee-represented-as-a_fig1_220515841
+40. https://money.cnn.com/2000/05/16/technology/enron/
+41. https://relationshipscience.com/person/sally-beck-111369206
+42. https://www.iccs-meeting.org/archive/iccs2018/papers/108620361.pdf
+43. https://www.wsj.com/articles/SB114123416916986639
+44. https://www.houstonpublicmedia.org/articles/news/2006/05/08/2700/monday-may-8th-2006/
+45. https://www.businessinsider.fr/us/brought-to-you-by-podcast-btyb-enron-mail
+46. https://www.gregorybufithis.com/2019/04/04/text-analytics-the-enron-data-set-and-andrew-fastow-get-a-new-role/
+47. https://www.latimes.com/archives/la-xpm-2009-jan-03-fi-kopper3-story.html
+48. https://www.chron.com/business/enron/article/Former-Enron-broadband-chief-gets-prison-term-1622724.php
+49. https://www.justice.gov/opa/pr/former-enron-broadband-co-chief-executive-officer-sentenced-wire-fraud
+50. https://www.theguardian.com/business/2002/feb/11/corporatefraud.enron1
+51. https://www.latimes.com/archives/la-xpm-2002-jan-27-mn-25002-story.html
+52. http://usatoday30.usatoday.com/money/industries/energy/2005-12-28-enron-participants_x.htm
